@@ -1,5 +1,4 @@
 "use client";
-import "@uploadthing/react/styles.css";
 import { UploadDropzone } from "@/lib/uploadthing";
 import Image from "next/image";
 import { X } from "lucide-react";
