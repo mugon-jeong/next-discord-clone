@@ -1,6 +1,6 @@
 "use client";
-
-import { UploadDropzone, UploadButton, Uploader } from "@/lib/uploadthing";
+import "@uploadthing/react/styles.css";
+import { UploadDropzone } from "@/lib/uploadthing";
 import Image from "next/image";
 import { X } from "lucide-react";
 
@@ -30,10 +30,7 @@ export const FileUpload = ({ endpoint, onChange, value }: FileUploadProps) => {
 
   return (
     <UploadDropzone
-      appearance={{
-        button:
-          "relative mt-4 flex h-10 w-36 items-center justify-center overflow-hidden rounded-md after:duration-500 ut-ready:bg-green-500 ut-uploading:cursor-not-allowed rounded-r-none bg-blue-500 bg-none after:bg-blue-400",
-      }}
+      className="mt-4 ut-button:bg-red-500 ut-button:ut-readying:bg-red-500/50"
       endpoint={endpoint}
       onClientUploadComplete={(res) => {
         onChange(res?.[0].url);
