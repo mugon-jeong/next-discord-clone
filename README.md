@@ -25,3 +25,4 @@ npm run dev
 12. [tooltip](https://ui.shadcn.com/docs/components/tooltip)
 13. [Separator](https://ui.shadcn.com/docs/components/separator)
 14. [Scroll-area](https://ui.shadcn.com/docs/components/scroll-area)
+15. [zustand](https://zustand-demo.pmnd.rs/)
