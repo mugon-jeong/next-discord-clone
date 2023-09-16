@@ -9,7 +9,7 @@ npm run dev
 
 ```
 
-# library
+# library & component
 
 1. [ui component](https://ui.shadcn.com/)
 2. [authentication](https://clerk.com/)
@@ -22,3 +22,6 @@ npm run dev
 9. [input](https://ui.shadcn.com/docs/components/input)
 10. [form & React Hook Form](https://ui.shadcn.com/docs/components/form)
 11. [image upload storage](https://uploadthing.com/)
+12. [tooltip](https://ui.shadcn.com/docs/components/tooltip)
+13. [Separator](https://ui.shadcn.com/docs/components/separator)
+14. [Scroll-area](https://ui.shadcn.com/docs/components/scroll-area)
