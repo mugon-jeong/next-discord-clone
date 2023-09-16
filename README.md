@@ -21,3 +21,4 @@ npm run dev
 8. [dialog](https://ui.shadcn.com/docs/components/dialog)
 9. [input](https://ui.shadcn.com/docs/components/input)
 10. [form & React Hook Form](https://ui.shadcn.com/docs/components/form)
+11. [image upload storage](https://uploadthing.com/)
