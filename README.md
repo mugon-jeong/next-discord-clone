@@ -30,3 +30,5 @@ npm run dev
 17. [Select](https://ui.shadcn.com/docs/components/select)
 18. [Command](https://ui.shadcn.com/docs/components/command)
 19. [Sheet](https://ui.shadcn.com/docs/components/sheet)
+20. [socket.io](https://socket.io/)
+21. [Badge](https://ui.shadcn.com/docs/components/badge)
