@@ -28,3 +28,4 @@ npm run dev
 15. [zustand](https://zustand-demo.pmnd.rs/)
 16. [Avatar](https://ui.shadcn.com/docs/components/avatar)
 17. [Select](https://ui.shadcn.com/docs/components/select)
+18. [Command](https://ui.shadcn.com/docs/components/command)
