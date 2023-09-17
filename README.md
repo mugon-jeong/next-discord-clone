@@ -29,3 +29,4 @@ npm run dev
 16. [Avatar](https://ui.shadcn.com/docs/components/avatar)
 17. [Select](https://ui.shadcn.com/docs/components/select)
 18. [Command](https://ui.shadcn.com/docs/components/command)
+19. [Sheet](https://ui.shadcn.com/docs/components/sheet)
