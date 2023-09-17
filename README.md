@@ -27,3 +27,4 @@ npm run dev
 14. [Scroll-area](https://ui.shadcn.com/docs/components/scroll-area)
 15. [zustand](https://zustand-demo.pmnd.rs/)
 16. [Avatar](https://ui.shadcn.com/docs/components/avatar)
+17. [Select](https://ui.shadcn.com/docs/components/select)
