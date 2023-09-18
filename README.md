@@ -34,6 +34,7 @@ npm run dev
 21. [Badge](https://ui.shadcn.com/docs/components/badge)
 22. [Popover](https://ui.shadcn.com/docs/components/popover)
 23. [video call(livekit)](https://livekit.io/)
+24. [deploy (Railway)](https://railway.app/)
 
 # discussion
 1. [next-ws](https://github.com/apteryxxyz/next-ws)
