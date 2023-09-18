@@ -143,13 +143,13 @@ model DirectMessage {
   memberId String
   member Member @relation(fields: [memberId], references: [id], onDelete: Cascade)
 
-  converstaionId String
-  conversation Conversation @relation(fields: [converstaionId], references: [id], onDelete: Cascade)
+  conversationId String
+  conversation Conversation @relation(fields: [conversationId], references: [id], onDelete: Cascade)
 
   deleted Boolean @default(false)
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
   @@index([memberId])
-  @@index([converstaionId])
+  @@index([conversationId])
 }
