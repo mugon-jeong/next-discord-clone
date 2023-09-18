@@ -33,7 +33,7 @@ npm run dev
 20. [socket.io](https://socket.io/)
 21. [Badge](https://ui.shadcn.com/docs/components/badge)
 22. [Popover](https://ui.shadcn.com/docs/components/popover)
-
+23. [video call(livekit)](https://livekit.io/)
 
 # discussion
 1. [next-ws](https://github.com/apteryxxyz/next-ws)
