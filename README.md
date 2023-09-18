@@ -32,6 +32,7 @@ npm run dev
 19. [Sheet](https://ui.shadcn.com/docs/components/sheet)
 20. [socket.io](https://socket.io/)
 21. [Badge](https://ui.shadcn.com/docs/components/badge)
+22. [Popover](https://ui.shadcn.com/docs/components/popover)
 
 
 # discussion
