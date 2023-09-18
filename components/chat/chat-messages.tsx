@@ -64,7 +64,7 @@ const ChatMessages = ({
     bottomRef,
     loadMore: fetchNextPage,
     shouldLoadMore: !isFetchingNextPage && !!hasNextPage,
-    count: data?.pages?.[0].items.length ?? 0,
+    count: data?.pages?.[0]?.items?.length ?? 0,
   });
 
   if (status === "loading") {
